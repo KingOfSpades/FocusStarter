@@ -3,7 +3,8 @@ Alfred Workflow to start and stop RescueTime sessions. Relies on the RescueTime 
 
 # Demo
 ## Start Session
-Use `focus` + `time in minutes`. Example: `focus 5` to start a 5 minute focus session.
+Use `focus` + `time in minutes`. Example: `focus 5` to start a 5 minute focus session:
+
 ![Demo](demo.gif)
 
 ## Stop Session:
