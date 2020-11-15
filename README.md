@@ -1,5 +1,5 @@
 # FocusStarter
-Alfred Workflow to start and stop RescueTime sessions. Relies on the RescueTime API documented here [RescueTime API](https://www.rescuetime.com/apidoc)
+Alfred Workflow to start and stop RescueTime sessions. Relies on the RescueTime API documented here [RescueTime API](https://www.rescuetime.com/apidoc). Compatible with Alfred 4 (and older versions)
 
 # Demo
 ## Start Session
